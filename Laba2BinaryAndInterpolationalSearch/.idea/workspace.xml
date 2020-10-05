@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="33daf9ba-dc54-4e05-a466-1533712b94c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laba3BST/.idea/.idea.BinarySearchTree/riderModule.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laba2BinaryAndInterpolationalSearch/InterpolationSearch.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Laba2BinaryAndInterpolationalSearch/InterpolationSearch.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Laba2BinaryAndInterpolationalSearch/META-INF/Laba2BinaryAndInterpolationalSearch.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/InterpolationSearch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/InterpolationSearch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/Laba3BST.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/out/production/Laba3BST/META-INF/Laba3BST.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/out/production/Laba3BST/com/company/BinaryTree$BinaryNode.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/out/production/Laba3BST/com/company/BinaryTree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/out/production/Laba3BST/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/src/com/company/BinaryTree.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/тест.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba3BST/тесты.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/Laba4Hash.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/hi.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/src/com/company/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/тест.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laba4Hash/тесты.txt" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1hpmPNB2GxkN47xeSg4nWgew0tw" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+  </component>
+  <component name="RunManager" selected="Application.InterpolationSearch">
+    <configuration name="BinarySearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="BinarySearch" />
+      <module name="Laba2BinaryAndInterpolationalSearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InsertionSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InsertionSort" />
+      <module name="Laba2BinaryAndInterpolationalSearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InterpolationSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="InterpolationSearch" />
+      <module name="Laba2BinaryAndInterpolationalSearch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="Laba2BinaryAndInterpolationalSearch" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.InsertionSort" />
+      <item itemvalue="Application.BinarySearch" />
+      <item itemvalue="Application.InterpolationSearch" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InterpolationSearch" />
+        <item itemvalue="Application.BinarySearch" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.InsertionSort" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="33daf9ba-dc54-4e05-a466-1533712b94c8" name="Default Changelist" comment="" />
+      <created>1600716382944</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600716382944</updated>
+      <workItem from="1600716385294" duration="9131000" />
+      <workItem from="1600785900006" duration="841000" />
+      <workItem from="1602507918198" duration="3763000" />
+      <workItem from="1603108696781" duration="10820000" />
+      <workItem from="1603651042102" duration="789000" />
+      <workItem from="1604322487748" duration="3096000" />
+      <workItem from="1604924287712" duration="1138000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="768" y="278" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1600717296347">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="278" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600717296347" />
+    <state x="768" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1600778934121">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="768" y="270" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1600778934121" />
+    <state x="739" y="264" key="FileChooserDialogImpl" timestamp="1603651241312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="264" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1603651241312" />
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom" timestamp="1604331543892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1604331543892" />
+    <state width="1877" height="279" key="GridCell.Tab.0.center" timestamp="1604331543891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1604331543891" />
+    <state width="1877" height="279" key="GridCell.Tab.0.left" timestamp="1604331543891">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1604331543891" />
+    <state width="1877" height="279" key="GridCell.Tab.0.right" timestamp="1604331543892">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="279" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1604331543892" />
+    <state x="747" y="347" key="com.intellij.ide.util.TipDialog" timestamp="1604925496873">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="747" y="347" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604925496873" />
+    <state x="342" y="146" key="new project wizard" timestamp="1603651245529">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="342" y="146" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1603651245529" />
+  </component>
+</project>
